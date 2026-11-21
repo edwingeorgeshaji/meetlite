@@ -13,6 +13,8 @@ Install the client dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+---
 
  <div align='center'>
   
