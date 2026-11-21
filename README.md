@@ -13,3 +13,8 @@ Install the client dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+ <div align='center'>
+  
+  Bulit by,<strong> [R.E.C](https://github.com/edwingeorgeshaji) </strong>  <i>(ifykyk).</i>
+ </div>
